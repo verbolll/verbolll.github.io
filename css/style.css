@@ -772,3 +772,7 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+.mydiv1 {
+    margin-bottom: 30px;
+    }
