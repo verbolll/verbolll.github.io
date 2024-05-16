@@ -441,7 +441,7 @@ button:focus,
     background : -webkit-linear-gradient(
             top,
             transparent 0%,
-            rgba(0, 0, 0, 0.5) 100%
+            rgba(0, 0, 0) 100%
     );
     }
 
@@ -467,13 +467,13 @@ button:focus,
 .portfolio-item .portfolio-info h3 {
     margin         : 0;
     line-height    : 1;
-    color          : #ffffff;
+    color          : #ff5722;
     font-weight    : 500;
     text-transform : uppercase;
     }
 
 .portfolio-item .portfolio-info small {
-    color : rgba(255, 255, 255, .5);
+    color : rgba(	255, 87, 34);
     }
 
 
